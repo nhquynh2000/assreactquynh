@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "price": "1212",
+      "name": "quynhntnph08088 111",
+      "id": "27"
+    },
+    {
+      "price": "3",
+      "name": "edsfsfsfsdfdfsdfsdfsdf",
+      "id": "28"
+    },
+    {
+      "id": "29",
+      "name": "Generic Plastic Tuna",
+      "image": "http://lorempixel.com/640/480/animals",
+      "price": "836.00",
+      "detail": "nội dung chi tiết 8"
+    },
+    {
+      "name": "quynhntnph08088",
+      "image": "https://media.suckhoedoisong.vn/Images/quangcao/2020/01/13/hi21.jpg",
+      "price": "4",
+      "id": "6ObC96h"
+    },
+    {
+      "name": "quynhntnph08088",
+      "image": "https://cdn-www.vinid.net/2020/03/20200306_AppVinID_BannerWeb_CatTuong2.jpg",
+      "price": "4",
+      "id": "HRRw4B5"
+    },
+    {
+      "name": "dfss",
+      "image": "https://cdn-www.vinid.net/2020/03/20200306_AppVinID_BannerWeb_CatTuong2.jpg",
+      "price": "88",
+      "id": "hwc52vg"
+    },
+    {
+      "name": "quynhntn",
+      "image": "https://media.suckhoedoisong.vn/Images/quangcao/2020/01/13/hi21.jpg",
+      "price": "33",
+      "id": "T0maHQj"
+    },
+    {
+      "name": "eeeeeeeee",
+      "image": "https://cdn-www.vinid.net/2020/03/20200306_AppVinID_BannerWeb_CatTuong2.jpg",
+      "price": "44",
+      "id": "mzAMuBS"
+    },
+    {
+      "name": "quynhntnph08088",
+      "image": "https://cdn-www.vinid.net/2020/03/20200306_AppVinID_BannerWeb_CatTuong2.jpg",
+      "price": "33",
+      "id": "QDfIKEO"
+    },
+    {
+      "name": "quynhntnph08088211212121",
+      "image": "https://cdn-www.vinid.net/2020/03/20200306_AppVinID_BannerWeb_CatTuong2.jpg",
+      "price": "20000",
+      "id": "-Kc-j0N"
+    }
+  ],
+  "post": [
+    {
+      "title": "tiêu đề 1",
+      "content": "nội dung 1",
+      "category": "danh mục 1",
+      "id": "1"
+    },
+    {
+      "title": "tiêu đề 2",
+      "content": "nội dung 2",
+      "category": "danh mục 2",
+      "id": "2"
+    },
+    {
+      "title": "tiêu đề 3",
+      "content": "nội dung 3",
+      "category": "danh mục 3",
+      "id": "3"
+    }
+  ]
+}
